@@ -33,7 +33,7 @@ ALLOWED_HOSTS = ['tnhoj.edu.eu.org']
 SITE_ID = 1
 SITE_NAME = 'DMOJ'
 SITE_LONG_NAME = 'DMOJ: Modern Online Judge'
-SITE_ADMIN_EMAIL = ' tnhoj2124@gmail.com'
+SITE_ADMIN_EMAIL = 'tnhoj2124@gmail.com'
 
 DMOJ_REQUIRE_STAFF_2FA = True
 # Display warnings that admins will not perform 2FA recovery.

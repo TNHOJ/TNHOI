@@ -22,7 +22,7 @@ ALLOWED_HOSTS = ['*']
 # Optional apps that DMOJ can make use of.
 INSTALLED_APPS += (
 )
-
+#1234
 # Caching. You can use memcached or redis instead.
 # Documentation: <https://docs.djangoproject.com/en/3.2/topics/cache/>
 CACHES = {
